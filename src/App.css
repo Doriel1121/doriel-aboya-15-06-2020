@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.list{
+  list-style-type: none
+}
+
+.MuiCardMedia-root{
+  background-size: cover;
+}
+
+.btn{
+  border: transparent;
+  height: 50px;
+  background-color :transparent;
+}
